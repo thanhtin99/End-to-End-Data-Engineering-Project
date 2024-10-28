@@ -23,4 +23,5 @@
 
 ## System architectủe
 
-E:\DOWNLOADS_G\Tự học\e2e-data-engineering-main\e2e-data-engineering-main\Data engineering architecture.png
+![image](https://github.com/user-attachments/assets/5f7c3701-4308-4fed-b499-1c027272b79e)
+
