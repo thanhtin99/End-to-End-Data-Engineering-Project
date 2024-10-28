@@ -21,3 +21,6 @@
 - PostgreSQL
 - Docker
 
+## System architectủe
+
+E:\DOWNLOADS_G\Tự học\e2e-data-engineering-main\e2e-data-engineering-main\Data engineering architecture.png
